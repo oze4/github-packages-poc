@@ -1,5 +1,5 @@
 {
-  "name": "github-packages-poc",
+  "name": "@oze4/github-packages-poc",
   "version": "1.0.0",
   "description": "GitHub Packages Proof of Concept",
   "main": "index.js",
