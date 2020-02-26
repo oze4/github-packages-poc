@@ -1,0 +1,25 @@
+{
+  "name": "github-packages-poc",
+  "version": "1.0.0",
+  "description": "GitHub Packages Proof of Concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oze4/github-packages-poc.git"
+  },
+  "author": "Matt Oestreich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oze4/github-packages-poc/issues"
+  },
+  "homepage": "https://github.com/oze4/github-packages-poc#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
